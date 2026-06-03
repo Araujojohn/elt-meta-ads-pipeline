@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Docs internas — NÃO publicar (plano de carreira, perfil de aprendiz)
+CLAUDE.md
+.playwright-mcp/
